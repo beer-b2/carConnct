@@ -2,7 +2,7 @@
 
 This web-based platform for car rentals leverages APIs, TypeScript, and Tailwind CSS for a seamless user experience.
 
-## Demo: [link]
+## Demo: [https://car-connect-one.vercel.app]
 
 **Note:** Due to a glitch in newer versions of NEXT JS related to searching, this project uses a different approach to avoid the issue. However, this approach does not save search settings to the URL.
 
