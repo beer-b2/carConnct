@@ -6,6 +6,9 @@ This web-based platform for car rentals leverages APIs, TypeScript, and Tailwind
 
 **Note:** Due to a glitch in newer versions of NEXT JS related to searching, this project uses a different approach to avoid the issue. However, this approach does not save search settings to the URL.
 
+## API 
+- Cars by API-Ninjas:  https://rapidapi.com/apininjas/api/cars-by-api-ninjas/
+- IMAGIN.studio API:  https://cdn.imagin.studio/getimage
 ### Getting Started
 
 Since the latest version of NEXT JS is used, initialize your project with:
